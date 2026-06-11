@@ -8,7 +8,14 @@ A chess game built with Python and Pygame where players play against an AI oppon
 
 # Installation 
 Clone the repo and install dependencies:
+'''Bash
+git clone https://github.com/isaacwillson/pygame-chess-ai.git
+cd pygame-chess-ai
+pip install -r requirements.txt
+'''
 
+# Usage
+python main.py
 
 # Features
 - Interactive chess board built with Pygame
