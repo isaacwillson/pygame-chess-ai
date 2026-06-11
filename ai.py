@@ -7,7 +7,7 @@ from board import Board
 INF = float('inf')
 
 # Depth per difficulty: 0=Easy(random), 1=Medium(d3), 2=Hard(d5)
-DEPTHS = [0, 3, 5]
+DEPTHS = [1, 3, 5]
 
 
 def get_ai_move(board, difficulty):
