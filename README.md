@@ -4,7 +4,8 @@
 # Description
 A chess game built with Python and Pygame where players play against an AI opponent with adjustable difficulty levels. Includes complete chess gameplay and functionality, and an AI capable of making strategic decisions based on the state of the game and search algorithms.
 
-# Demo 
+# Snapshot 
+<img src="Screenshot 2026-07-15 181900.png" alt="Chess game snapshot"/>
 
 # Installation 
 Clone the repo and install dependencies:
